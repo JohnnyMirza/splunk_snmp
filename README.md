@@ -32,5 +32,5 @@ Steps:
 - Copy the telegraf conf files from GiT folder to the /etc/telegraf/telegraf.d folder on the HF
 - Replace the /opt/splunk/etc/apps/splunk_app_infrastructure/default/collectors.conf on the HF to the one from git
 copy MIBS to /usr/share/snmp/mibs folder on the HF
-***Note: for Splunk App for Infrastructure version > 2.1.0, use the entity_classes file instead of the collectors.conf file***
+- ***Note: for Splunk App for Infrastructure version > 2.1.0, use the entity_classes file instead of the collectors.conf file***
 
