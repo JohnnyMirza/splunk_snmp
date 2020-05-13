@@ -24,7 +24,7 @@ Steps:
    enabled = 1
    gpgcheck = 1
    gpgkey = https://repos.influxdata.com/influxdb.key
-   EO
+   EOF
    ```
    - sudo yum -y install telegraf
    - sudo systemctl enable --now telegraf
