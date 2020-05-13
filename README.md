@@ -1,7 +1,7 @@
 # splunk_snmp
 
-- Initial 1: f5 and foritnet support
-- Update 1.1: Splunk App for Infrastructure version 2.1.0 uses the entity_classes.conf file
+- Initial: f5 and foritnet support
+- Update 1: Splunk App for Infrastructure version 2.1.0 uses the entity_classes.conf file
 
 **SNMP Network Monitoring from Splunk.**
 
